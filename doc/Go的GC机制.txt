@@ -1,0 +1,1 @@
+Go的GC机制使用的是无分带（没有代际之分）、不整理、并发（于用户程序并发）的GC算法不整理的原因是go底层的内存分配使用的tcmalloc，基本没有碎片问题。tcmalloc、zmalloc、malloc的区别?
