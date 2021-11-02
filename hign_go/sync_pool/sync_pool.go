@@ -3,6 +3,7 @@ package main
 import (
 	"fmt"
 	"net/http"
+	"sync"
 )
 
 func newBuf()[]byte{
@@ -10,6 +11,9 @@ func newBuf()[]byte{
 }
 
 func main(){
+	newBuffer := sync.Pool{
+
+	}
 	go func() {
 		http.ListenAndServe("localhost:6060", nil)
 	}()
