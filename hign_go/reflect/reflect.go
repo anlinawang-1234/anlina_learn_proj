@@ -9,6 +9,7 @@ type Execute struct {
 }
 
 func main(){
+	fmt.Println("hello")
 	myExec := Execute{}
 	execType := reflect.TypeOf(&myExec)
 	for i := 0; i < execType.NumMethod(); i++{
