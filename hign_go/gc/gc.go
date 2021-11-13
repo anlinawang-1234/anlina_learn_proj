@@ -13,6 +13,7 @@ func main(){
 	//gc1()
 	//gcTrace()
 	traceOut()
+	fmt.Sprintf("hello ")
 }
 
 // 生成trace 图 使用 go tool trace trace.out
