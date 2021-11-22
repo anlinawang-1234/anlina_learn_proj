@@ -10,11 +10,26 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1de15f57-0505-4556-8c96-959b309c8eff" name="Default Changelist" comment="" />
+    <list default="true" id="1de15f57-0505-4556-8c96-959b309c8eff" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/hign_go/errors_1.13/errors_1.13.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hign_go/wrap_error/config.txt.bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hign_go/wrap_error/wrap_error.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/微服务概念与治理.xmind" beforeDir="false" afterPath="$PROJECT_DIR$/doc/微服务概念与治理.xmind" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hign_go/test_error/test_error.go" beforeDir="false" afterPath="$PROJECT_DIR$/hign_go/test_error/test_error.go" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
   </component>
   <component name="GOROOT" path="/usr/local/Cellar/go/1.14.5/libexec" />
   <component name="Git.Settings">
@@ -23,20 +38,33 @@
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="2" />
   </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
   <component name="ProjectId" id="20DBPG1nn0N7Y0RC4kbIIeorqKL" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/hign_go/errors_1.13" />
+      <recent name="$PROJECT_DIR$/hign_go" />
+      <recent name="$PROJECT_DIR$/hign_go/sync_pool" />
+    </key>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
@@ -51,5 +79,34 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="520" y="237" key="#Deployment" timestamp="1636251324956">
+      <screen x="48" y="23" width="1744" height="1097" />
+    </state>
+    <state x="520" y="237" key="#Deployment/48.23.1744.1097@48.23.1744.1097" timestamp="1636251324956" />
+    <state x="504" y="224" key="#SSH_Configurations" timestamp="1636251269528">
+      <screen x="48" y="23" width="1744" height="1097" />
+    </state>
+    <state x="504" y="224" key="#SSH_Configurations/48.23.1744.1097@48.23.1744.1097" timestamp="1636251269528" />
+    <state x="629" y="369" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1636335358964">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="660" y="384" key="#com.intellij.fileTypes.FileTypeChooser/-344.-1417.2560.1417/48.23.1744.1097@48.23.1744.1097" timestamp="1635853065526" />
+    <state x="629" y="369" key="#com.intellij.fileTypes.FileTypeChooser/-344.-1440.2560.1440/0.0.1792.1120@0.0.1792.1120" timestamp="1636335358964" />
+    <state x="629" y="369" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1792.1120@0.0.1792.1120" timestamp="1635589001855" />
+    <state x="827" y="309" key="ftp.server.browser" timestamp="1636251322999">
+      <screen x="48" y="23" width="1744" height="1097" />
+    </state>
+    <state x="827" y="309" key="ftp.server.browser/48.23.1744.1097@48.23.1744.1097" timestamp="1636251322999" />
+    <state x="593" y="269" width="670" height="663" key="search.everywhere.popup" timestamp="1637463817023">
+      <screen x="47" y="23" width="1745" height="1097" />
+    </state>
+    <state x="561" y="251" width="670" height="676" key="search.everywhere.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1636799830603" />
+    <state x="593" y="269" width="670" height="663" key="search.everywhere.popup/47.23.1745.1097@47.23.1745.1097" timestamp="1637463817023" />
   </component>
 </project>
