@@ -11,15 +11,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1de15f57-0505-4556-8c96-959b309c8eff" name="Default Changelist" comment="--commit">
-      <change afterPath="$PROJECT_DIR$/hign_go/concurrency/context_withtimeout/context_withtimeout.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hign_go/concurrency/data_race/data_race.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hign_go/concurrency/http_select/http_select.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hign_go/concurrency/memory_model/memory_model.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hign_go/concurrency/track_demo/track_demo.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hign_go/leetcode/algorithm_stage_1/algorithm_stage_1.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hign_go/leetcode/sort/sort.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hign_go/concurrency/channel/channel.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hign_go/concurrency/incorrect_sync/incorrect_sync.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/微服务概念与治理.xmind" beforeDir="false" afterPath="$PROJECT_DIR$/doc/微服务概念与治理.xmind" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,11 +59,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/hign_go/concurrency" />
       <recent name="$PROJECT_DIR$/hign_go/concurrency/memory_model" />
       <recent name="$PROJECT_DIR$/hign_go/leetcode/sort" />
       <recent name="$PROJECT_DIR$/hign_go/concurrency/http_select" />
       <recent name="$PROJECT_DIR$/hign_go/errors_1.13" />
-      <recent name="$PROJECT_DIR$/hign_go" />
     </key>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -113,10 +107,11 @@
       <screen x="47" y="23" width="1745" height="1097" />
     </state>
     <state x="421" y="210" key="SettingsEditor/-344.-1417.2560.1417/47.23.1745.1097@47.23.1745.1097" timestamp="1637586423284" />
-    <state x="520" y="311" key="Vcs.Push.Dialog.v2" timestamp="1637585836753">
-      <screen x="47" y="23" width="1745" height="1097" />
+    <state x="519" y="311" key="Vcs.Push.Dialog.v2" timestamp="1638109908033">
+      <screen x="45" y="23" width="1747" height="1097" />
     </state>
     <state x="520" y="311" key="Vcs.Push.Dialog.v2/-344.-1417.2560.1417/47.23.1745.1097@47.23.1745.1097" timestamp="1637585836753" />
+    <state x="519" y="311" key="Vcs.Push.Dialog.v2/45.23.1747.1097@45.23.1747.1097" timestamp="1638109908033" />
     <state x="827" y="309" key="ftp.server.browser" timestamp="1636251322999">
       <screen x="48" y="23" width="1744" height="1097" />
     </state>
