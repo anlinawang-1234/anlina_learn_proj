@@ -11,10 +11,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1de15f57-0505-4556-8c96-959b309c8eff" name="Default Changelist" comment="--commit">
-      <change afterPath="$PROJECT_DIR$/weread_go_book/part_1/closure/closure.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weread_go_book/part_1/escape/escape.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weread_go_book/part_1/ssa/ssa.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hign_go/concurrency/atomic_with_benchmark/atomic_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hign_go/concurrency/context_withvalue/context_withvalue.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hign_go/concurrency/control_routine_with_channel/control_routine_with_channel.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hign_go/concurrency/dead_lock/dead_lock.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hign_go/concurrency/errgroup/errgroup.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hign_go/concurrency/fib/fib_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hign_go/concurrency/interface/interface.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hign_go/concurrency/mutex/mutex.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hign_go/concurrency/nil_interface/nil_interface.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/微服务概念与治理.xmind" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hign_go/concurrency/data_race/data_race.go" beforeDir="false" afterPath="$PROJECT_DIR$/hign_go/concurrency/data_race/data_race.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hign_go/leetcode/algorithm_stage_1/algorithm_stage_1.go" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/algorithm_stage_1/algorithm_stage_1.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hign_go/leetcode/sort/sort.go" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/sort/sort.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,11 +71,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/hign_go/concurrency" />
       <recent name="$PROJECT_DIR$/hign_go/concurrency/memory_model" />
       <recent name="$PROJECT_DIR$/hign_go/leetcode/sort" />
       <recent name="$PROJECT_DIR$/hign_go/concurrency/http_select" />
-      <recent name="$PROJECT_DIR$/hign_go/errors_1.13" />
     </key>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -98,30 +109,31 @@
       <screen x="48" y="23" width="1744" height="1097" />
     </state>
     <state x="504" y="224" key="#SSH_Configurations/48.23.1744.1097@48.23.1744.1097" timestamp="1636251269528" />
-    <state x="660" y="384" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1638282449765">
-      <screen x="47" y="23" width="1745" height="1097" />
+    <state x="629" y="369" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1638613388880">
+      <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="660" y="384" key="#com.intellij.fileTypes.FileTypeChooser/-344.-1417.2560.1417/48.23.1744.1097@48.23.1744.1097" timestamp="1635853065526" />
     <state x="629" y="369" key="#com.intellij.fileTypes.FileTypeChooser/-344.-1440.2560.1440/0.0.1792.1120@0.0.1792.1120" timestamp="1636335358964" />
-    <state x="629" y="369" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1792.1120@0.0.1792.1120" timestamp="1635589001855" />
+    <state x="629" y="369" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1792.1120@0.0.1792.1120" timestamp="1638613388880" />
     <state x="660" y="384" key="#com.intellij.fileTypes.FileTypeChooser/47.23.1745.1097@47.23.1745.1097" timestamp="1638282449765" />
     <state x="421" y="210" key="SettingsEditor" timestamp="1637586423284">
       <screen x="47" y="23" width="1745" height="1097" />
     </state>
     <state x="421" y="210" key="SettingsEditor/-344.-1417.2560.1417/47.23.1745.1097@47.23.1745.1097" timestamp="1637586423284" />
-    <state x="520" y="311" key="Vcs.Push.Dialog.v2" timestamp="1638236966083">
+    <state x="520" y="311" key="Vcs.Push.Dialog.v2" timestamp="1638283956536">
       <screen x="47" y="23" width="1745" height="1097" />
     </state>
     <state x="520" y="311" key="Vcs.Push.Dialog.v2/-344.-1417.2560.1417/47.23.1745.1097@47.23.1745.1097" timestamp="1638236966083" />
     <state x="519" y="311" key="Vcs.Push.Dialog.v2/45.23.1747.1097@45.23.1747.1097" timestamp="1638109908033" />
+    <state x="520" y="311" key="Vcs.Push.Dialog.v2/47.23.1745.1097@47.23.1745.1097" timestamp="1638283956536" />
     <state x="827" y="309" key="ftp.server.browser" timestamp="1636251322999">
       <screen x="48" y="23" width="1744" height="1097" />
     </state>
     <state x="827" y="309" key="ftp.server.browser/48.23.1744.1097@48.23.1744.1097" timestamp="1636251322999" />
-    <state x="593" y="269" width="670" height="663" key="search.everywhere.popup" timestamp="1638282633095">
-      <screen x="47" y="23" width="1745" height="1097" />
+    <state x="561" y="251" width="670" height="676" key="search.everywhere.popup" timestamp="1638612691424">
+      <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="561" y="251" width="670" height="676" key="search.everywhere.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1638006495387" />
+    <state x="561" y="251" width="670" height="676" key="search.everywhere.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1638612691424" />
     <state x="593" y="269" width="670" height="663" key="search.everywhere.popup/47.23.1745.1097@47.23.1745.1097" timestamp="1638282633095" />
   </component>
 </project>
