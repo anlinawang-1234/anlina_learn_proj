@@ -11,21 +11,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1de15f57-0505-4556-8c96-959b309c8eff" name="Default Changelist" comment="--commit">
-      <change afterPath="$PROJECT_DIR$/hign_go/concurrency/atomic_with_benchmark/atomic_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hign_go/concurrency/context_withvalue/context_withvalue.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hign_go/concurrency/control_routine_with_channel/control_routine_with_channel.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hign_go/concurrency/dead_lock/dead_lock.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hign_go/concurrency/errgroup/errgroup.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hign_go/concurrency/fib/fib_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hign_go/concurrency/interface/interface.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hign_go/concurrency/mutex/mutex.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hign_go/concurrency/nil_interface/nil_interface.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hign_go/concurrency/drop_channel/drop_channel.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hign_go/concurrency/pipeline/pipeline.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hign_go/concurrency/select_order/select_order.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hign_go/concurrency/unbuffed_channel/unbuffed_channel.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/doc/微服务概念与治理.xmind" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hign_go/concurrency/data_race/data_race.go" beforeDir="false" afterPath="$PROJECT_DIR$/hign_go/concurrency/data_race/data_race.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hign_go/leetcode/algorithm_stage_1/algorithm_stage_1.go" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/algorithm_stage_1/algorithm_stage_1.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hign_go/leetcode/sort/sort.go" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/sort/sort.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,8 +62,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/hign_go/concurrency" />
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/hign_go/concurrency/memory_model" />
       <recent name="$PROJECT_DIR$/hign_go/leetcode/sort" />
       <recent name="$PROJECT_DIR$/hign_go/concurrency/http_select" />
@@ -120,10 +111,11 @@
       <screen x="47" y="23" width="1745" height="1097" />
     </state>
     <state x="421" y="210" key="SettingsEditor/-344.-1417.2560.1417/47.23.1745.1097@47.23.1745.1097" timestamp="1637586423284" />
-    <state x="520" y="311" key="Vcs.Push.Dialog.v2" timestamp="1638283956536">
-      <screen x="47" y="23" width="1745" height="1097" />
+    <state x="486" y="294" key="Vcs.Push.Dialog.v2" timestamp="1638614809133">
+      <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="520" y="311" key="Vcs.Push.Dialog.v2/-344.-1417.2560.1417/47.23.1745.1097@47.23.1745.1097" timestamp="1638236966083" />
+    <state x="486" y="294" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1638614809133" />
     <state x="519" y="311" key="Vcs.Push.Dialog.v2/45.23.1747.1097@45.23.1747.1097" timestamp="1638109908033" />
     <state x="520" y="311" key="Vcs.Push.Dialog.v2/47.23.1745.1097@47.23.1745.1097" timestamp="1638283956536" />
     <state x="827" y="309" key="ftp.server.browser" timestamp="1636251322999">
